@@ -11,7 +11,7 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 ### Information Collection and Use
 
-I guarantee to NOT collect or sell your personal information in any way. The app I built doesn't require any special permission to collect your personal information.
+#### I guarantee to NOT collect or sell your personal information in any way. The app I built doesn't require any special permission to collect your personal information.
 
 For a better experience, while using our Service, I use some services that may require you to provide them with certain personally identifiable information. The information that I request is retained on your device and is not collected by me in any way.
 
